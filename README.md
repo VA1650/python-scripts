@@ -18,3 +18,15 @@ A minimalistic Python microservice designed to provide real-time system health m
 * psutil
 
 ## QR-code generator
+
+A tool for rapid QR-code creation with configurable error correction levels and custom color schemes.
+
+## ✨ Key Features
+* **On-the-fly Generation:** Instant creation of QR images from input strings or URLs.
+* **Customization:** Supports adjustments for module size, border padding, and color styling.
+* **Integration:** User-friendly CLI interface for batch processing of data.
+
+## 🛠 Technical Stack
+* Python 3.x
+* qrcode (library for generation)
+* Pillow (for image processing)
